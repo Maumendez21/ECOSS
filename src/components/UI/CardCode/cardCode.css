@@ -1,0 +1,15 @@
+.btnNext {
+    background-color: #f18024; 
+    color: white; 
+    border-color: #f18024; 
+    border-radius: 25px; 
+    padding-left: 25px; 
+    padding-right: 25px; 
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.card {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    border-radius: 15px;
+}
